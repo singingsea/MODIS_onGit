@@ -27,8 +27,10 @@ import pandas as pd
 import os
 
 
-MODIS_data_path = 'E:\\Projects\\MODIS\\501219332\\'
-output_file = 'E:\\Projects\\MODIS\\test.csv'
+#MODIS_data_path = 'E:\\Projects\\MODIS\\501219332\\'
+MODIS_data_path = 'C:\\Projects\\MODIS\\data\\'
+#output_file = 'E:\\Projects\\MODIS\\test.csv'
+output_file = ':\\Projects\\MODIS\\output\\test.csv'
 user_lat = 40
 user_lon = -50
 #user_lat = 43
